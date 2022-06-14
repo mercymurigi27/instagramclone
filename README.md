@@ -5,18 +5,6 @@
 # Description  
 This is a clone of  Instagram where people share their  images and videos for other users to view. 
 Users can sign up, login, view and post photos, search and follow other users.
-##  Live Link  
- Click [View Site](https://instalite.herokuapp.com/)  to visit the site
-  
-## Screenshots 
-###### Home page
- 
-<img src="https://raw.githubusercontent.com/Owiti-Charles/insta-lite/master/static/images/instagram.png">
- 
- ###### user profile
- <img src="https://raw.githubusercontent.com/Owiti-Charles/insta-lite/master/static/images/profile.png"> 
-
-
  
 ## User Story  
   

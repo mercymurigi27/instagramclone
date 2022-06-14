@@ -25,7 +25,7 @@ To get the project .......
 ```
 ##### Navigate into the folder and install requirements  
  ```bash 
-cd insta-lite pip install -r requirements.txt 
+cd instaclone pip install -r requirements.txt 
 ```
 ##### Install and activate Virtual  
  ```bash 
